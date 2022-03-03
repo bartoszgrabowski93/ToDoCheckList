@@ -65,37 +65,7 @@ namespace ToDoCheckList
                         Console.WriteLine("Action does not exist.");
                         break;
                 }
-            }
-
-
-            /// 
-            /// Options:
-            /// 2. Change task status to complete/undone
-            /// 3. Edit task
-            /// 4. Delete task
-            /// 5. Sort tasks by ID, priority or status
-            /// 
-            ///     1c. Ask User for date
-            ///     1d. Ask User for task priority 
-            ///     
-            ///     2a. Show all tasks
-            ///     2b. Ask User which task status should be changed
-            ///     2c. Change status of the task
-            ///     
-            ///     3a. Show all tasks
-            ///     3b. Ask User which task to change
-            ///     3c. Ask which parameter should be changed / or all
-            ///     3d. Change parameter
-            ///     
-            ///     4a. Show all tasks
-            ///     4b. Ask User for declaration which to delete
-            ///     4c. Delete task
-            ///     
-            ///     5a. Ask user for main parameter to filter
-            ///     5b. Filter by parameter chosen by User
-            ///     5b. Show filtered tasks 
-
-            
+            }            
 
         }
 

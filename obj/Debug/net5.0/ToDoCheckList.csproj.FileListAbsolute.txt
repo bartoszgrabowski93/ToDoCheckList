@@ -1,0 +1,16 @@
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\obj\Debug\net5.0\ToDoCheckList.csproj.AssemblyReference.cache
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\obj\Debug\net5.0\ToDoCheckList.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\obj\Debug\net5.0\ToDoCheckList.AssemblyInfoInputs.cache
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\obj\Debug\net5.0\ToDoCheckList.AssemblyInfo.cs
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\obj\Debug\net5.0\ToDoCheckList.csproj.CoreCompileInputs.cache
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\bin\Debug\net5.0\ToDoCheckList.exe
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\bin\Debug\net5.0\ToDoCheckList.deps.json
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\bin\Debug\net5.0\ToDoCheckList.runtimeconfig.json
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\bin\Debug\net5.0\ToDoCheckList.runtimeconfig.dev.json
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\bin\Debug\net5.0\ToDoCheckList.dll
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\bin\Debug\net5.0\ref\ToDoCheckList.dll
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\bin\Debug\net5.0\ToDoCheckList.pdb
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\obj\Debug\net5.0\ToDoCheckList.dll
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\obj\Debug\net5.0\ref\ToDoCheckList.dll
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\obj\Debug\net5.0\ToDoCheckList.pdb
+D:\MyProgramms\ToDoCheckList\ToDoCheckList\obj\Debug\net5.0\ToDoCheckList.genruntimeconfig.cache
